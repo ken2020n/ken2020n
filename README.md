@@ -55,6 +55,7 @@ Oracle
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2592E5?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-F76201?logo=rabbitmq&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E84F31?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-039331?logo=vim&logoColor=white"></a>
 
 ### Opearting System
 
