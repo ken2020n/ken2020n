@@ -33,5 +33,10 @@
 
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3A3A3A?logo=linux&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2592E5?logo=docker&logoColor=white"></a>
-
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-42759B.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-BD9667.svg?logo=mariadb&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32648C.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-06AB4E.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-D6362A?logo=redis&logoColor=white"></a>
+<a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-F76201?logo=rabbitmq&logoColor=white"></a>
 
