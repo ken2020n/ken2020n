@@ -61,3 +61,10 @@ Oracle
 <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-585858?logo=macos&logoColor=white"></a>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3A3A3A?logo=linux&logoColor=white"></a>
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0074CD?logo=windows&logoColor=white"></a>
+
+---
+
+## Github States & Activity
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ken's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ken2020n&theme=react&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
