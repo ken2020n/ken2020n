@@ -47,9 +47,6 @@
 
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-D6362A?logo=redis&logoColor=white"></a>
 
-SQL Server
-Oracle
-
 ### Software
 
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2592E5?logo=docker&logoColor=white"></a>
