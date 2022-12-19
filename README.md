@@ -2,6 +2,8 @@
 
 **`Software Engineer/DevOps/SRE`**
 
+
+
 ## Programming & Markup Languages
 
 <a target="_blank" href="https://github.com/search?q=user%3Aken2020n+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
@@ -29,14 +31,33 @@
 <a href="#"><img alt="Appium" src="https://img.shields.io/badge/Appium-4E2D77?logo=appium&logoColor=white"></a>
 <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-00AE00?logo=selenium&logoColor=white"></a>
 
-## Hosting & Databases
+## Databases
 
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3A3A3A?logo=linux&logoColor=white"></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2592E5?logo=docker&logoColor=white"></a>
+
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-42759B.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-BD9667.svg?logo=mariadb&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-32648C.svg?logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-06AB4E.svg?logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-D6362A?logo=redis&logoColor=white"></a>
-<a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-F76201?logo=rabbitmq&logoColor=white"></a>
 
+<a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F7131C?logo=oracle&logoColor=white"></a>
+<a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-F7131C?logo=microsoftsqlserver&logoColor=white"></a>
+
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-06AB4E.svg?logo=mongodb&logoColor=white"></a>
+
+<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-3495D0?logo=sqlite&logoColor=white"></a>
+
+<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-D6362A?logo=redis&logoColor=white"></a>
+
+SQL Server
+Oracle
+
+## Software
+
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2592E5?logo=docker&logoColor=white"></a>
+<a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-F76201?logo=rabbitmq&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-E84F31?logo=git&logoColor=white"></a>
+
+## Opearting System
+
+<a href="#"><img alt="MacOS" src="https://img.shields.io/badge/MacOS-585858?logo=macos&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-3A3A3A?logo=linux&logoColor=white"></a>
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0074CD?logo=windows&logoColor=white"></a>
